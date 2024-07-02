@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>The Fab Factory | Contact</title>
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css"
+      crossorigin="anonymous"
+    />
+    {% load static %}
+    <link rel="stylesheet" href="{% static 'css/style.css' %}" />
+  </head>
+
+  <body>
+    {% include 'navbar.html' %}
+    <div class="orange_bg">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12">
+            <div class="titlepage">
+              <h1>Contact Us</h1>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="container">
+      <div class="contact">
+        <form id="request" class="main_form">
+          <div class="row">
+            <div class="col-md-6 mb-3">
+              <input
+                class="form-control"
+                placeholder="Name *"
+                type="text"
+                id="Name"
+                name="Name"
+              />
+            </div>
+            <div class="col-md-6 mb-3">
+              <input
+                class="form-control"
+                placeholder="Phone Number *"
+                type="text"
+                id="PhoneNumber"
+                name="PhoneNumber"
+              />
+            </div>
+            <div class="col-md-6 mb-3">
+              <input
+                class="form-control"
+                placeholder="Email *"
+                type="text"
+                id="Email"
+                name="Email"
+              />
+            </div>
+            <div class="col-md-6 mb-3">
+              <input
+                class="form-control"
+                placeholder="Country *"
+                type="text"
+                id="Country"
+                name="Country"
+              />
+            </div>
+            <div class="col-md-12 mb-3">
+              <textarea
+                class="form-control"
+                placeholder="Feedback"
+                id="Feedback"
+                name="Feedback"
+              ></textarea>
+            </div>
+            <div class="col-md-12 text-center">
+              <button
+                type="button"
+                class="btn btn-primary send_btn"
+                id="submitbtn"
+              >
+                Send
+              </button>
+              <div id="success" style="margin-top: 10px; color: red"></div>
+            </div>
+          </div>
+        </form>
+      </div>
+    </div>
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js"
+      crossorigin="anonymous"
+    ></script>
+    <script src="{% static 'js/script.js' %}"></script>
+  </body>
+</html>
