@@ -54,7 +54,7 @@ The following command should be used to clone the repository:
 git clone https://github.com/bikiCoder23/The_Fab_Factory
 ```
 
-### Project UI
+## Project UI
 ![image](https://github.com/bikiCoder23/The-Fab-Factory/assets/76732539/770e0241-1086-4b49-b60c-f17e297bd198)
 ![image](https://github.com/bikiCoder23/The-Fab-Factory/assets/76732539/cdece51a-71d6-409b-9642-52f5ca86b140)
 ![image](https://github.com/bikiCoder23/The-Fab-Factory/assets/76732539/de0a6d7f-f6be-451f-9bbb-73ce3f0665af)
