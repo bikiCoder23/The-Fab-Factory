@@ -1,10 +1,10 @@
 # The-Fab-Factory
 
-This project involves implementing web scraping techniques and their real-life use case in the development of a fashion e-commerce website for the Internet Technology course (IT4172) at IIEST Shibpur.
+This project involves implementing web scraping techniques and developing a robust and highly interactive fashion e-commerce web appliction using Django Framework and basics of Internet Technology course (IT4172) at IIEST Shibpur.
 
-![Python](https://img.shields.io/badge/Python-3.9-blueviolet)
+![Python](https://img.shields.io/badge/Python-3.12-blueviolet)
 ![Framework](https://img.shields.io/badge/Framework-Django-red)
-![Frontend](https://img.shields.io/badge/Frontend-HTML/Bootstrap-green)
+![Frontend](https://img.shields.io/badge/Frontend-HTML/CSS/Js-green)
 
 ## Overview
 
@@ -56,5 +56,6 @@ git clone https://github.com/bikiCoder23/The_Fab_Factory
 
 ## Project UI
 ![image](https://github.com/bikiCoder23/The-Fab-Factory/assets/76732539/770e0241-1086-4b49-b60c-f17e297bd198)
-![image](https://github.com/bikiCoder23/The-Fab-Factory/assets/76732539/cdece51a-71d6-409b-9642-52f5ca86b140)
-![image](https://github.com/bikiCoder23/The-Fab-Factory/assets/76732539/de0a6d7f-f6be-451f-9bbb-73ce3f0665af)
+![image](https://github.com/bikiCoder23/The-Fab-Factory/assets/76732539/17f3f99f-93b8-4334-8014-26fa09ff8217)
+![image](https://github.com/bikiCoder23/The-Fab-Factory/assets/76732539/796568ba-9f76-4b7b-872c-45370f4198b6)
+
