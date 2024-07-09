@@ -1,6 +1,6 @@
 # The-Fab-Factory
 
-This project involves implementing web scraping techniques and developing a robust and highly interactive fashion e-commerce web appliction using Django Framework and basics of Internet Technology course (IT4172) at IIEST Shibpur.
+This project involves implementing web scraping techniques and developing an eye catchy, robust and highly interactive fashion e-commerce web appliction using Django Framework and basics of Internet Technology course (IT4172) at IIEST Shibpur.
 
 ![Python](https://img.shields.io/badge/Python-3.12-blueviolet)
 ![Framework](https://img.shields.io/badge/Framework-Django-red)
